@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm an aspiring Cloud Engineer with a strong found
 - ⚡ Fun fact: I enjoy the cyberpunk genre in games and TV shows.
 
 **Technical Projects**
--
--
--
+- https://github.com/andreg-22/image_label_generator
+- https://github.com/andreg-22/text_narration
+- https://partyrock.aws/u/andre22/94A4exgSd/TravelMate-Recommender
 
 ## 💻 Technologies & Tools
 
