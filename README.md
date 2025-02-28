@@ -13,10 +13,11 @@ Welcome to my GitHub profile! I'm an aspiring Cloud Engineer with a strong found
 - 📫 How to reach me: [andre.gallman@gmail.com](mailto:andre.gallman@gmail.com)
 - ⚡ Fun fact: I enjoy the cyberpunk genre in games and TV shows.
 
-**Technical Projects**
-- https://github.com/andreg-22/image_label_generator
-- https://github.com/andreg-22/text_narration
-- https://partyrock.aws/u/andre22/94A4exgSd/TravelMate-Recommender
+## **Technical Projects**
+
+- [Image Label Generator](https://github.com/andreg-22/image_label_generator)
+- [Text Narration](https://github.com/andreg-22/text_narration)
+- [TravelMate Recommender](https://partyrock.aws/u/andre22/94A4exgSd/TravelMate-Recommender)
 
 ## 💻 Technologies & Tools
 
@@ -34,7 +35,7 @@ Welcome to my GitHub profile! I'm an aspiring Cloud Engineer with a strong found
 
 ## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/andre-gallman-ii-24a542124](https://www.linkedin.com/in/andre-gallman-ii-24a542124)
+- LinkedIn: [andre-gallman-ii](https://www.linkedin.com/in/andre-gallman-ii-24a542124)
 
 Feel free to check out my repositories and contribute to any projects that interest you. Let's build something amazing together!
 
