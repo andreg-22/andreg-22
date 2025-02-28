@@ -1,4 +1,4 @@
-# Hi there, I'm André! 👋
+# Hi there, I'm Andre! 👋
 
 Welcome to my GitHub profile! I'm an aspiring Cloud Engineer with a strong foundation in AWS, cybersecurity, and networking. Here's a little bit about me:
 
@@ -9,11 +9,14 @@ Welcome to my GitHub profile! I'm an aspiring Cloud Engineer with a strong found
 - 🔭 Currently working on AWS projects to broaden my knowledge and gain more skills.
 - 🔒 Experience in cybersecurity and networking from previous roles.
 - 🌱 Constantly learning and exploring new cloud technologies.
-- 👯 Looking to collaborate on cloud and cybersecurity projects.
 - 💬 Ask me about AWS, cloud computing, cybersecurity, or networking.
 - 📫 How to reach me: [andre.gallman@gmail.com](mailto:andre.gallman@gmail.com)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy the cyberpunk genre in games and TV shows.
+
+**Technical Projects**
+-
+-
+-
 
 ## 💻 Technologies & Tools
 
@@ -28,10 +31,6 @@ Welcome to my GitHub profile! I'm an aspiring Cloud Engineer with a strong found
 - **Cybersecurity:** Security best practices, threat mitigation, incident response
 - **Programming Languages:** Python, Bash
 - **Tools & Platforms:** Git, Docker, Terraform
-
-## 📈 GitHub Stats
-
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreg-22&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
 
